@@ -20,7 +20,7 @@ width = cols * base_wr
 height = rows * base_hr
 
 screen = pygame.display.set_mode([width, height])
-pygame.display.set_caption("A* algorithm")
+pygame.display.set_caption("Maze")
 clock = pygame.time.Clock()
 
 
